@@ -1,0 +1,15 @@
+@import './styles/pokedex.css';
+@import './styles/pokemonCard.css';
+@import './styles//pokemonDetail.css';
+@import './styles//pagination.css';
+
+html {
+  font-size: 62.5%;
+  font-family: 'Poppins', sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-size: 1.6rem;
+}

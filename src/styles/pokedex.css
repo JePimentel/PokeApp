@@ -1,0 +1,11 @@
+.pokedex {
+  text-align: center;
+}
+
+.containerPokemons {
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+  justify-content: space-between;
+}

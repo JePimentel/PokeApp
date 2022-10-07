@@ -1,0 +1,19 @@
+.pagination {
+}
+
+.pagination a {
+    font-size: 2.4rem;
+    margin: 0 10px;
+    border: solid 2px black;
+    padding: 5px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.selected {
+    background-color: #9b9b9b;
+}
+
+.pagination a:hover {
+    background-color: #c0c0c0;
+}
